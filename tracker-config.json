@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "90-day-interview-warfare": {
+      "phases": [
+        { "name": "Foundation & DSA", "startDay": 1, "endDay": 28, "description": "Arrays, Hashmaps, Linked Lists, Trees, Graphs, DP, Intervals, Bit Manipulation — 70+ LeetCode problems" },
+        { "name": "System Design & Depth", "startDay": 29, "endDay": 56, "description": "15 system designs + continued LC. 2 designs/week + advanced patterns" },
+        { "name": "Interview Simulation", "startDay": 57, "endDay": 90, "description": "12+ mock interviews — DSA, System Design, Behavioral. Full interview mode." }
+      ],
+      "categories": ["dsa", "system-design", "behavioral", "concepts", "review"],
+      "dailyLogIssueNumber": 1,
+      "startDate": "2026-03-03",
+      "totalDays": 90
+    }
+  }
+}
